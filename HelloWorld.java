@@ -17,6 +17,5 @@ public class HelloWorld {
         String s = sc.next()+sc.nextLine();
 
         System.out.println("The output is : "+(a*b)+" "+s);
-        //test
     }
 }
